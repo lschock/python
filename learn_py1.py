@@ -17,7 +17,7 @@ def num_teachers(teachers):
     busy_teacher += 1
   return busy_teacher
 
-#part 2
+#part 2.
 #Create a new function named num_courses that will receive the same dictionary as its only argument.
 #The function should return the total number of courses for all of the teachers.
 def num_courses(teachers):
