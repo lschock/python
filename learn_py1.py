@@ -8,7 +8,7 @@
 
 teachers = {'Andrew Chalkley': ['jQuery Basics', 'Node.js Basics'],  'Kenneth Love': ['Python Basics', 'Python Collections']}
 
-#part 1
+#part 1.
 #For this first task, create a function named num_teachers that takes a single argument, which will be a dictionary of Treehouse teachers and their #courses.
 #The num_teachers function should return an integer for how many teachers are in the dict.
 def num_teachers(teachers):
